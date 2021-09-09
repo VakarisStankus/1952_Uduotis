@@ -7,6 +7,8 @@ void Sprendimas(int n);
 int main() {
 
     int n;
+    cout <<"Irasykite Skaiciu nuo 1 iki 10000"<< endl;
+
     cin >> n;
     Sprendimas(n);
 
